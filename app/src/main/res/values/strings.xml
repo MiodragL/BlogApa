@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlogAp</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Log in</string>
+
+</resources>
